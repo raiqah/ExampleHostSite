@@ -1,2 +1,0 @@
-# ExampleHostSite
-Hosting a site
